@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841887833502",
+    "project_id": "generate-password-app",
+    "storage_bucket": "generate-password-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841887833502:android:95da1c06f04fde5978ca8f",
+        "android_client_info": {
+          "package_name": "com.filipovgeneratepassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841887833502-8gg3dgnhj3gsfbsen9rmdff4uffrej4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIm2I_YirEbv3pk7K4KMtIGxYwD-xU5XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841887833502-8gg3dgnhj3gsfbsen9rmdff4uffrej4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
